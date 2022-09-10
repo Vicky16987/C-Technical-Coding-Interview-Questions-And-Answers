@@ -16,7 +16,6 @@ namespace reverse_the_order_of_words_in_a_given_string
 
             Console.WriteLine("Reverse Sentence is : {0}", reverseString);
             Console.ReadLine();
-
         }
 
     }

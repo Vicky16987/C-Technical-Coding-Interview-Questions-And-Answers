@@ -33,6 +33,7 @@ namespace reverse_each__word__in__a_given_string
                     result += stringArray[i];
                 else
                     result += " " + stringArray[i];
+
             }
 
             for (int i = result.Length - 1; i >= 0; i--)
