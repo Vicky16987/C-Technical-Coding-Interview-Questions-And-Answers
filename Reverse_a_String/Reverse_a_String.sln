@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse_the_order_of_words_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse_each _word _in _a_given_string", "..\reverse_each _word _in _a_given_string\reverse_each _word _in _a_given_string.csproj", "{6AEB8C6B-4032-409A-A352-9497D9F03151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "count_the_occurrence_of_each_character_in_a_string", "..\count_the_occurrence_of_each_character_in_a_string\count_the_occurrence_of_each_character_in_a_string.csproj", "{44E0ADD9-1EFD-4742-AF04-C2B1261F6950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "count_the_occurrence_of_each_character_in_a_string", "..\count_the_occurrence_of_each_character_in_a_string\count_the_occurrence_of_each_character_in_a_string.csproj", "{44E0ADD9-1EFD-4742-AF04-C2B1261F6950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star_Triangle_Pattern", "..\Star_Triangle_Pattern\Star_Triangle_Pattern.csproj", "{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{44E0ADD9-1EFD-4742-AF04-C2B1261F6950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44E0ADD9-1EFD-4742-AF04-C2B1261F6950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44E0ADD9-1EFD-4742-AF04-C2B1261F6950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
