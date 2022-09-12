@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "count_the_occurrence_of_eac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star_Triangle_Pattern", "..\Star_Triangle_Pattern\Star_Triangle_Pattern.csproj", "{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Triangle_Pattern", "..\Number_Triangle_Pattern\Number_Triangle_Pattern.csproj", "{EE8AD0AF-2EAF-4F34-B239-F86F183D8E59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67C55A61-8EE3-4BDD-B4D5-905F228A00E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8AD0AF-2EAF-4F34-B239-F86F183D8E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8AD0AF-2EAF-4F34-B239-F86F183D8E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8AD0AF-2EAF-4F34-B239-F86F183D8E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8AD0AF-2EAF-4F34-B239-F86F183D8E59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
