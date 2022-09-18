@@ -13,7 +13,7 @@ namespace Character_Triangle_Pattern
             numberOfRows = Convert.ToInt32(Console.ReadLine());
             space = numberOfRows - 1;
 
-            for(int i=1; i <= numberOfRows; i++)
+            for (int i = 1; i <= numberOfRows; i++)
             {
                 for (int j = 1; j <= space; j++)
                 {
